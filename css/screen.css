@@ -5,7 +5,10 @@ form{
 	width: 200px;
 	margin: 0 auto;
 }
-
+h2{
+	text-align:center;
+	
+}
 body {
 	background-color: #ffcc99;
 	display: inline;
