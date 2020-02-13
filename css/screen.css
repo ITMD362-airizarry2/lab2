@@ -9,6 +9,10 @@ h2{
 	text-align:center;
 	
 }
+h4{
+	text-transform: lowercase;
+	text-transform: capitalize;
+}
 body {
 	background-color: #ffcc99;
 	display: inline;
