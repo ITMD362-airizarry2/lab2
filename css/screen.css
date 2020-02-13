@@ -1,0 +1,25 @@
+form{
+	font-family: Lucida Console;
+	text-align: center;
+	text-transform: uppercase;
+	width: 200px;
+	margin: 0 auto;
+}
+
+body {
+	background-color: #ffcc99;
+	display: inline;
+}
+
+label{
+	text-align:center;
+}
+
+/* Mobile Styles */
+@media only screen and (max-width: 600px){
+	body{
+		background-color: #ccffcc;
+	    font-family: Georgia;
+		font-size: 2em;
+	}
+}
