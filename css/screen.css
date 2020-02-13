@@ -1,36 +1,40 @@
-form{
+form {
 	font-family: Lucida Console;
 	text-align: center;
 	text-transform: uppercase;
 	width: 200px;
 	margin: 0 auto;
 }
-h2{
-	text-align:center;
-	
+
+h2 {
+	text-align: center;
 }
-h4{
+
+h4 {
 	text-transform: lowercase;
 	text-transform: capitalize;
 }
+
 body {
 	background-color: #ffcc99;
 	display: inline;
 }
 
-label{
-	text-align:center;
+label {
+	text-align: center;
 }
 
+
 /* Mobile Styles */
-@media only screen and (max-width: 600px){
-	body{
+
+@media only screen and (max-width: 600px) {
+	body {
 		background-color: #ccffcc;
-	    font-family: Georgia;
+		font-family: Georgia;
 		font-size: 2em;
 	}
-	h2{
+	h2 {
 		font-size: .75em;
-		text-align:center;	
+		text-align: center;
 	}
 }
